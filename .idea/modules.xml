@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays2DArrays/Arrays2DArrays.iml" filepath="$PROJECT_DIR$/Arrays2DArrays/Arrays2DArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CSNotesLT.iml" filepath="$PROJECT_DIR$/.idea/CSNotesLT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackQueue/StackQueue.iml" filepath="$PROJECT_DIR$/StackQueue/StackQueue.iml" />
     </modules>
   </component>
 </project>
